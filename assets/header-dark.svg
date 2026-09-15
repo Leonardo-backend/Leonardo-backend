@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Leonardo Cesar — Desenvolvedor Back-end Júnior">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#161B33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6" fill="#312E81"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="20" fill="none" stroke="#1E293B"/>
+  <rect x="760" y="30" width="400" height="240" fill="url(#dots)" opacity="0.9"/>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="72" y="78" width="56" height="6" rx="3" fill="url(#accent)"/>
+    <text x="70" y="150" font-size="60" font-weight="700" fill="#F1F5F9">Leonardo Cesar</text>
+    <text x="72" y="196" font-size="28" font-weight="500" fill="#A5B4FC">Desenvolvedor Back-end Júnior</text>
+    <text x="72" y="236" font-size="20" fill="#94A3B8">Node.js  ·  TypeScript  ·  PostgreSQL</text>
+  </g>
+
+  <g transform="translate(820 70)" font-family="Consolas, 'Courier New', monospace" font-size="19">
+    <rect width="300" height="160" rx="14" fill="#0F172A" stroke="#1E293B"/>
+    <circle cx="24" cy="24" r="6" fill="#F87171"/>
+    <circle cx="44" cy="24" r="6" fill="#FBBF24"/>
+    <circle cx="64" cy="24" r="6" fill="#4ADE80"/>
+    <text x="24" y="70" fill="#94A3B8">POST <tspan fill="#F1F5F9">/appointments</tspan></text>
+    <text x="24" y="104" fill="#4ADE80">201 <tspan fill="#94A3B8">Created</tspan></text>
+    <text x="24" y="138" fill="#A5B4FC">{ "status": "ok" }</text>
+  </g>
+</svg>
