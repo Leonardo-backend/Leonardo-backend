@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Leonardo Cesar — Desenvolvedor Back-end Júnior">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Leonardo Cesar — Estudante de ADS, back-end em formação">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0D1117"/>
@@ -19,8 +19,8 @@
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
     <rect x="72" y="78" width="56" height="6" rx="3" fill="url(#accent)"/>
     <text x="70" y="150" font-size="60" font-weight="700" fill="#F1F5F9">Leonardo Cesar</text>
-    <text x="72" y="196" font-size="28" font-weight="500" fill="#A5B4FC">Desenvolvedor Back-end Júnior</text>
-    <text x="72" y="236" font-size="20" fill="#94A3B8">Node.js  ·  TypeScript  ·  PostgreSQL</text>
+    <text x="72" y="196" font-size="28" font-weight="500" fill="#A5B4FC">Estudante de ADS · Back-end em formação</text>
+    <text x="72" y="236" font-size="20" fill="#94A3B8">Node.js  ·  PostgreSQL  ·  aprendendo TypeScript</text>
   </g>
 
   <g transform="translate(820 70)" font-family="Consolas, 'Courier New', monospace" font-size="19">
