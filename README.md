@@ -19,7 +19,7 @@
 
 ## Sobre mim
 
-Estudo Análise e Desenvolvimento de Sistemas na FATEC Ourinhos e trabalho com suporte a sistemas ERP, onde lido com PostgreSQL e com clientes todos os dias. Estou no começo da carreira em desenvolvimento e aprendo construindo projetos: cada repositório aqui é um passo desse caminho, não um produto acabado.
+Estudo Análise e Desenvolvimento de Sistemas na FATEC Ourinhos e trabalho com suporte a sistemas ERP, onde lido com PostgreSQL e com clientes todos os dias. Estou no começo da carreira em desenvolvimento e aprendo construindo projetos: cada repositório aqui é um passo desse caminho.
 
 Também uso IA generativa como apoio para estudar e programar. Escrevo os prompts, leio o código gerado, testo e só mantenho o que eu entendo.
 
