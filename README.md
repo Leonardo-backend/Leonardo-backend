@@ -1,11 +1,12 @@
 # Leonardo Cesar da Silva
-### Junior Backend Developer · Node.js · TypeScript · PostgreSQL
+### Junior Backend Developer
+Node.js • TypeScript • PostgreSQL • REST APIs • Docker • Git
 
-Based in Brazil · Open to remote junior backend opportunities in Brazil and internationally
+Based in Brazil
 
 I work in ERP systems support, with day-to-day exposure to SQL/PostgreSQL, customer issues and business software. I bring that practical systems background to backend development projects involving HTTP APIs, relational data and automated tests.
 
-I am studying Systems Analysis and Development at FATEC Ourinhos. My portfolio focuses on what I have built and contributed to, alongside my ongoing technical development.
+My portfolio highlights backend projects, technical decisions and traceable contributions. I study Systems Analysis and Development at FATEC Ourinhos.
 
 ## Technical focus
 
@@ -38,15 +39,15 @@ The following source repositories are currently private.
 
 | Project | Scope | Technology |
 | --- | --- | --- |
-| WhatsApp Sender | Local automation with a task API, scheduling, web dashboard and optional AI integration | Node.js, Express, JavaScript, Node.js tests |
+| WhatsApp Sender | Local automation with a task API, scheduling, web dashboard and automated tests | Node.js, Express, JavaScript, Node.js tests |
 | DevJr Academy | Browser programming environment with typed execution orchestration, exercises and progress tracking | TypeScript, Next.js, Web Workers, SQLite/WASM, Firebase |
 | Meu Violoncelo | Cello practice application with offline support and cross-device progress synchronization | JavaScript, PWA, Firebase Auth, Firestore |
 
 DevJr Academy runs exercise code in the browser. Meu Violoncelo uses Firebase services. These complement my portfolio; PostgreSQL and the Node.js backend are demonstrated in SteamTwo.
 
-## Working approach
+## Engineering approach
 
-I use generative AI as a tool for studying and development: I write prompts, review the resulting code, test changes and keep what I understand. Project scope and team attribution are documented in the repositories.
+I document project architecture and setup, use automated tests to check behavior, and keep contributions traceable through Git. Each repository explains its technical scope, limitations and team attribution.
 
 ## Contact
 
@@ -54,4 +55,4 @@ I use generative AI as a tool for studying and development: I write prompts, rev
 
 ---
 
-**Português:** Desenvolvedor com foco em backend e experiência prática em suporte a sistemas ERP e SQL/PostgreSQL. Busco uma vaga remota de nível júnior, com foco em Node.js, TypeScript, APIs REST e bancos relacionais.
+**Português:** Desenvolvedor com foco em backend e experiência profissional em suporte a sistemas ERP e SQL/PostgreSQL. Projetos com Node.js, TypeScript, APIs REST, bancos relacionais, Docker, Git e testes automatizados.
